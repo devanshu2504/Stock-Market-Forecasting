@@ -1,0 +1,1 @@
+The data is getting fetched using the API HERE. Different forecasting models such as ARIMA, SARIMA, Prophet has been sued here for teh forecasting, as well as there accuracy has been comapred at the last to check which nodels works better for which data.
